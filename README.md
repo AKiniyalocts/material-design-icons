@@ -3,7 +3,7 @@
 Material Design Icons are the official open-source [icons](http://www.google.com/design/spec/resources/sticker-sheets.html#sticker-sheets-components) featured in the Google [Material Design](http://www.google.com/design/spec) specification.
 
 ## Font
-Download the .ttf available in the font folder of the repo.
+Download the <a href="https://github.com/AKiniyalocts/material-design-icons/blob/master/font/material-icons.ttf">.ttf</a> available in the font folder of the repo.
 Also grab the ligature map (so you know which phrase to use for which icon)
 
 
