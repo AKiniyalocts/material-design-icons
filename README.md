@@ -2,6 +2,11 @@
 
 Material Design Icons are the official open-source [icons](http://www.google.com/design/spec/resources/sticker-sheets.html#sticker-sheets-components) featured in the Google [Material Design](http://www.google.com/design/spec) specification.
 
+## Font
+Download the .ttf available in the font folder of the repo.
+Also grab the ligature map (so you know which phrase to use for which icon)
+
+
 ## What's included?
 
 * SVG versions of all icons in both 24px and 48px flavours
@@ -9,7 +14,6 @@ Material Design Icons are the official open-source [icons](http://www.google.com
 * 1x, 2x icons targeted at the Web (PNG)
 * 1x, 2x, 3x icons targeted at iOS (PNG)
 * Hi-dpi versions of all icons (hdpi, mdpi, xhdpi, xxhdpi, xxxhdpi) (PNG)
-
 A live [preview](http://google.github.io/material-design-icons/)  of the icon set is available.
 
 ## Getting Started
