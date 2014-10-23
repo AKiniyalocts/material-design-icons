@@ -4,7 +4,7 @@ Material Design Icons are the official open-source [icons](http://www.google.com
 
 ## Font
 Download the <a href="https://github.com/AKiniyalocts/material-design-icons/blob/master/font/material-icons.ttf">.ttf</a> available in the font folder of the repo.
-Also grab the ligature map (so you know which phrase to use for which icon)
+Also grab the <a href="https://github.com/AKiniyalocts/material-design-icons/blob/master/font/icon-font-ligature-map.png">ligature map</a> (so you know which phrase to use for which icon)
 
 
 ## What's included?
